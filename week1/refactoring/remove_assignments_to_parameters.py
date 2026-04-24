@@ -9,6 +9,6 @@ def discount(inputVal, quantity):
 def discount(inputVal, quantity):
     result = inputVal
     if quantity > 50:
-        inputVal -= 2
+        result -= 2
     # ...
 
